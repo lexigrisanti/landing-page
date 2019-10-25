@@ -1,0 +1,29 @@
+.logo {
+  background-color: #EDC9AF;
+
+}
+#header-img{
+  width: 10vw;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  top: 0;
+  justify-content: space-between;
+  align-items: center;
+}
+body{
+  display: flex;
+  flex-direction: column;
+}
+.nav-link{
+  display: flex;
+  flex-direction: row;
+
+}
+
+header {
+  position: fixed;
+
+}
